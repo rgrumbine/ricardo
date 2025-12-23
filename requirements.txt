@@ -1,0 +1,38 @@
+bokeh 
+cartopy
+datetime
+lmoments3
+matplotlib
+netCDF4
+numpy
+pandas
+properscoring
+scikit-learn
+scipy
+seaborn
+statistics
+xarray
+xgboost
+
+#-------- Source?
+#ppscore -- build of pandas wheel fails
+#skill_metrics -- not found
+
+#------------------- from this directory:
+#dproc 
+#mvalstats
+#pvalstats
+#wprob
+
+#---------------
+# already in rg venv
+#calendar
+#gc
+#math
+#os
+#pickle
+#pylab
+#sys
+#time
+#warnings
+#yaml
